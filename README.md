@@ -12,8 +12,13 @@ Bike sharing systems are a means of renting bicycles where the process of obtain
 In order to analyze bike rental system, basic statistical tools and visualisations have been used. In order to properly use training dataset, initial Exploratory Data Analysis(EDA) was carried out.
 It allowed to learn more about the dataset and decide what kind of data transformations has to be applied in the features engineering process. The EDA phase was followed by the features engineering process in order to carry out explanatory analyses. It allowed to draw several useful insights about the dataset.
 
-## Used resources
 
+## Used resources
+   *  https://www.udacity.com Data Analyst Nanodegree programme,
+   *  https://towardsdatascience.com/heres-how-to-calculate-distance-between-2-geolocations-in-python-93ecab5bbba4
+   * https://stackoverflow.com/questions/47850202/plotting-a-histogram-on-a-log-scale-with-matplotlib
+   * https://www.geeksforgeeks.org
+   
 ## Author
 Teodor Wisniewski
 
