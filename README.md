@@ -23,6 +23,12 @@ explanatory_Ford_GoBike.ipynb
 ```
 The EDA phase was followed by the explanatory data analysis consisting of the features engineering process. It allowed to draw several useful insights about the dataset and give some general recomondations regarding the usage of the system.
 
+## Presentation
+We can find the presentation and key insights in the following file:
+```sh
+explanatory_Ford_GoBike.slides.html
+```
+
 
 ## Used resources
    *  https://www.udacity.com Data Analyst Nanodegree programme,
