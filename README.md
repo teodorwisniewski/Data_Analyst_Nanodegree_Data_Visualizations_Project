@@ -11,22 +11,26 @@ Bike sharing systems are a means of renting bicycles where the process of obtain
 ## Exploratory data analysis (EDA)
 One may find the exploratory data analysis in the following file:
 ```sh
-Exploratory _Ford_GoBike.ipynb
+part1_exploratory _Ford_GoBike.ipynb
 ```
-In order to analyze bike rental system, basic statistical tools and visualisations have been used. In order to properly use training dataset, initial Exploratory Data Analysis(EDA) was carried out.
-It allowed to learn more about the dataset and explore different features. 
+In order to analyze bike rental system, basic statistical tools and visualisations have been used. In order to properly use training dataset, initial Exploratory Data Analysis(EDA) was carried out. This dataset contains 183412 rows (rows with missing values counted).
+It allowed to learn more about the dataset and explore different features.  In this part, the following features will be studied:
+* age
+* starting hour of the trip
+* usage of bikes on different week days
+* distance between starting and ending stations in km
 
 ## Explanatory data analysis
 One may find the explanatory data analysis in the following file:
 ```sh
-explanatory_Ford_GoBike.ipynb
+part2_explanatory_Ford_GoBike.ipynb
 ```
-The EDA phase was followed by the explanatory data analysis consisting of the features engineering process. It allowed to draw several useful insights about the dataset and give some general recomondations regarding the usage of the system.
+The EDA phase was followed by the explanatory data analysis consisting of the features engineering process. It allowed to draw several useful insights about the dataset and give some general recommendations regarding the usage of the system. We will find out that a typical user is a male who subscribes bikes system and who probably works and is between 25-50 years old. We suggest to create an app to motivate users through the gamification of the bike riding process.
 
 ## Presentation
 We can find the presentation and key insights in the following file:
 ```sh
-explanatory_Ford_GoBike.slides.html
+part2_explanatory_Ford_GoBike.slides.html
 ```
 
 
